@@ -1,6 +1,3 @@
-### About:
-Donald Buchla (April 17, 1937 – September 14, 2016) was an American pioneer in the field of sound synthesis. Buchla popularized the "West Coast" style of synthesis...[read more](https://en.wikipedia.org/wiki/Don_Buchla).
-
 Here is a digital implementation of the 259 circuit. 
 
 ### Example:
